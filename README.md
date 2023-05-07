@@ -31,7 +31,7 @@ I'm a young energetic and result-oriented software developer with 5 years of exp
       </li>
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=PaceCodes&data=followers,repositories,stars,commits"></p>
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,dart,c,cpp,csharp,bash,powershell,swift&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,kotlin,python,html,css,javascript,typescript,c,cpp,csharp,bash,powershell&includeNames=true"></p>
 
 <div align="center">
 	
